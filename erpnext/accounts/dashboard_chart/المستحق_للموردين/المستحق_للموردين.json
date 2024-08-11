@@ -1,0 +1,23 @@
+{
+ "chart_name": "\u0627\u0644\u0645\u0633\u062a\u062d\u0642 \u0644\u0644\u0645\u0648\u0631\u062f\u064a\u0646",
+ "chart_type": "Report",
+ "creation": "2020-07-17 11:25:34.564015",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "dynamic_filters_json": "{\"company\":\"frappe.defaults.get_user_default(\\\"Company\\\")\",\"report_date\":\"frappe.datetime.now_date()\"}",
+ "filters_json": "{\"ageing_based_on\":\"Due Date\",\"range1\":30,\"range2\":60,\"range3\":90,\"range4\":120,\"group_by_party\":0,\"based_on_payment_terms\":0}",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "modified": "2023-10-21 19:57:24.533310",
+ "modified_by": "ahmedkhatan92@gmail.com",
+ "module": "Accounts",
+ "name": "\u0627\u0644\u0645\u0633\u062a\u062d\u0642 \u0644\u0644\u0645\u0648\u0631\u062f\u064a\u0646",
+ "number_of_groups": 0,
+ "owner": "Administrator",
+ "report_name": "Accounts Payable",
+ "timeseries": 0,
+ "type": "Percentage",
+ "use_report_chart": 1,
+ "y_axis": []
+}
